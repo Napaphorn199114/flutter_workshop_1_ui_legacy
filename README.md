@@ -1,7 +1,7 @@
 # workshop_1_ui_legacy
-flutter
-import package transparent_image 
-A new Flutter project.
+#flutter
+#import package transparent_image 
+
 
 ## Getting Started
 
