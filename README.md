@@ -1,4 +1,4 @@
-#flutter_workshop_1_ui_legacy
+#workshop_1_ui_legacy
 #flutter
 #import package transparent_image 
 
